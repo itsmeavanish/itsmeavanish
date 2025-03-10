@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @itsmeavanish
+- 👋 Hi, Avanish here
 - 👀 I’m interested in ... coding things
-- 🌱I'm a ..... Full Stack Developer
-- 💞️ I’m looking to collaborate on ... projects using html and css
-- 📫 How to reach me ... message me on insta - @_its_me_avanish
+- 🌱I'm a ..... Full Stack Developer and App Developer
+- 💞️ I’m looking to collaborate on ... projects based on Web Dev and App Dev
+- 📫 How to reach me ... message me on insta - @theycallmeavanish
 
 <!---
 itsmeavanish/itsmeavanish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
