@@ -52,25 +52,35 @@ With a strong problem-solving mindset, I love experimenting with new tools, fram
 ## 🛠️ Languages & Tools
 
 <p align="left">
+  <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/code.png" alt="DSA" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Gemini_logo.svg" alt="Gemini AI" width="40"/>
-  <img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" alt="Three.js / R3F" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/WebGL_Logo.svg" alt="WebGL / 3D Particles" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40"/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" width="40"/>
+
+  <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40"/>
+
+  <!-- AI/3D Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Gemini_logo.svg" alt="Gemini" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/WebGL_Logo.svg" alt="WebGL" width="40"/>
 </p>
 ---
 
