@@ -7,6 +7,8 @@ I enjoy building scalable, intelligent, and efficient solutions that solve real-
 With a strong problem-solving mindset, I love experimenting with new tools, frameworks, and technologies to create impactful, future-ready applications.
 
 ---
+- 🌐 [Portfolio](https://avanishportfolio.vercel.app/) <!-- Replace with your portfolio URL -->
+- 📄 [Resume](https://drive.google.com/file/d/1lB3fcUQLc2zGdhRZx57MPJocnoKeSwRg/view) <!-- Replace with your resume URL -->
 
 ## 🚀 About Me
 
@@ -41,13 +43,7 @@ With a strong problem-solving mindset, I love experimenting with new tools, fram
   </a>
 </p>
 
----
-## 📎 Links
 
-- 🌐 [Portfolio](https://avanishportfolio.vercel.app/) <!-- Replace with your portfolio URL -->
-- 📄 [Resume](https://drive.google.com/file/d/1lB3fcUQLc2zGdhRZx57MPJocnoKeSwRg/view) <!-- Replace with your resume URL -->
-
----
 
 ## 🛠️ Languages & Tools
 
