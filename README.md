@@ -9,6 +9,7 @@ With a strong problem-solving mindset, I love experimenting with new tools, fram
 ---
 - 🌐 [Portfolio](https://avanishportfolio.vercel.app/) <!-- Replace with your portfolio URL -->
 - 📄 [Resume](https://drive.google.com/file/d/1lB3fcUQLc2zGdhRZx57MPJocnoKeSwRg/view) <!-- Replace with your resume URL -->
+- 📫 [Email](avanishupadhyay633@gmail.com)
 
 ## 🚀 About Me
 
