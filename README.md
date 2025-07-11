@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Avanish Upadhyay
 
-I'm passionate about learning and growing in the fields of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Web Development**, and **Cloud Computing**. I enjoy building scalable, intelligent, and efficient solutions that solve real-world problems.
+I'm passionate about learning and growing in the fields of **Web Development(Full Stack)**, **App Development**, **Generative AI**, and **Cloud Computing**. I enjoy building scalable, intelligent, and efficient solutions that solve real-world problems.
 
 With a strong problem-solving mindset, I love experimenting with new tools, frameworks, and technologies to create impactful, future-ready applications.
 
@@ -8,7 +8,7 @@ With a strong problem-solving mindset, I love experimenting with new tools, fram
 
 ## 🚀 About Me
 
-- 🌱 Currently diving deeper into **AI/ML**  
+- 🌱 Currently diving deeper into **Generative AI**  
 - 💼 Actively looking for **Internships** or **Full-time Opportunities**  
 - 🧠 Always curious and open to learning new things  
 
@@ -16,17 +16,17 @@ With a strong problem-solving mindset, I love experimenting with new tools, fram
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-link/) <!-- Replace with your actual LinkedIn -->
-- [Instagram](https://www.instagram.com/your-handle/) <!-- Replace with your actual Instagram -->
-- [LeetCode](https://leetcode.com/u/your-username/) <!-- Replace with your LeetCode profile -->
-- 📬 Email: **your-email@example.com** <!-- Replace with your actual email -->
+- [LinkedIn](https://www.linkedin.com/in/avanish633/) <!-- Replace with your actual LinkedIn -->
+- [Instagram](https://www.instagram.com/theycallmeavanish/) <!-- Replace with your actual Instagram -->
+- [LeetCode](https://leetcode.com/u/itsmeavanish/) <!-- Replace with your LeetCode profile -->
+- 📬 Email: **avanishupadhyay633@gmail.com** <!-- Replace with your actual email -->
 
 ---
 
 ## 📎 Links
 
-- 🌐 [Portfolio](#) <!-- Replace with your portfolio URL -->
-- 📄 [Resume](#) <!-- Replace with your resume URL -->
+- 🌐 [Portfolio](https://avanishportfolio.vercel.app/) <!-- Replace with your portfolio URL -->
+- 📄 [Resume](https://drive.google.com/file/d/1lB3fcUQLc2zGdhRZx57MPJocnoKeSwRg/view) <!-- Replace with your resume URL -->
 
 ---
 
