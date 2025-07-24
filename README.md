@@ -37,10 +37,10 @@ With a strong problem-solving mindset, I love experimenting with new tools, fram
   <a href="https://leetcode.com/u/itsmeavanish/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="36"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://avanishportfolio.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/domain.png" alt="Portfolio" width="36"/>
   </a>
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://drive.google.com/file/d/1lB3fcUQLc2zGdhRZx57MPJocnoKeSwRg/view" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/resume.png" alt="Resume" width="36"/>
   </a>
 </p>
