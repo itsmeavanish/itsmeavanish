@@ -1,85 +1,137 @@
-# 👋 Hi, I'm Avanish Upadhyay
+<h1 align="center">Hi, I'm Avanish Upadhyay 👋</h1>
+<h3 align="center">Full Stack & AI Systems Engineer</h3>
 
-I'm passionate about building innovative and scalable applications — from **full-stack web platforms** to **cross-platform mobile apps**. I enjoy working at the intersection of **AI**, **3D web**, and **cloud-native tools**, constantly exploring new tech to push creative boundaries.
+<p align="center">
+Building Autonomous AI Systems • Distributed Backends • Cloud-Native Platforms
+</p>
 
-I enjoy building scalable, intelligent, and efficient solutions that solve real-world problems.
-
-With a strong problem-solving mindset, I love experimenting with new tools, frameworks, and technologies to create impactful, future-ready applications.
-
-
-- 🌐 [Portfolio](https://avanishportfolio.vercel.app/) <!-- Replace with your portfolio URL -->
-- 📄 [Resume](https://drive.google.com/file/d/1lB3fcUQLc2zGdhRZx57MPJocnoKeSwRg/view) <!-- Replace with your resume URL -->
-- 📫 [Email](avanishupadhyay633@gmail.com)
-  
+---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning and building with **Generative AI**, **React 3 Fiber**, and **DevOps workflows**  
-- 💼 Actively looking for **Internships** or **Full-time Opportunities**
-- 🧠 Focused on **DSA in Java** and scalable systems  
-- ⚡ Exploring the power of **3D experiences on the web** 
-- 🧠 Always curious and open to learning new things  
+I design and build **scalable, intelligent, and production-grade systems** at the intersection of AI and full-stack engineering.
 
+My focus lies in:
+- Architecting distributed backend systems
+- Building AI-powered automation agents
+- Deploying cloud-native applications
+- Designing high-performance frontend experiences
 
+Currently exploring advanced **Generative AI systems, RAG pipelines, distributed event architectures, and DevOps automation workflows**.
 
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:avanishupadhyay633@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" width="36"/>
-  </a>
-  <a href="https://www.linkedin.com/in/avanish633/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36"/>
-  </a>
-  <a href="https://www.instagram.com/theycallmeavanish/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="36"/>
-  </a>
-  <a href="https://leetcode.com/u/itsmeavanish/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="36"/>
-  </a>
-  <a href="https://avanishportfolio.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/domain.png" alt="Portfolio" width="36"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1lB3fcUQLc2zGdhRZx57MPJocnoKeSwRg/view" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/resume.png" alt="Resume" width="36"/>
-  </a>
-</p>
-
-
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <!-- Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40"/>
-
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40"/>
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40"/>
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" width="40"/>
-
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40"/>
-
-  <!-- AI/3D Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Gemini_logo.svg" alt="Gemini" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/WebGL_Logo.svg" alt="WebGL" width="40"/>
-</p>
 ---
 
-⭐ Check out my projects and feel free to drop a star if you find something cool!
+## 🧠 AI Engineering
+
+- 🔹 Agentic AI workflows (n8n + MCP + LLM orchestration)
+- 🔹 RAG pipelines using LangChain / LangGraph
+- 🔹 Semantic resume regeneration engine (100% ATS keyword match system)
+- 🔹 CNN-based real-time crop disease detection (AWS EC2 deployment)
+- 🔹 Hybrid structured + vector data architectures
+- 🔹 AI-driven automation agents for zero-touch workflows
+
+---
+
+## ⚙️ Backend & Systems Engineering
+
+- 🔹 Event-driven architecture (Redis + Kafka)
+- 🔹 Low-latency APIs (achieved 30% response reduction)
+- 🔹 Prisma ORM + Supabase data layer standardization
+- 🔹 Dockerized cloud deployments (AWS EC2, S3)
+- 🔹 CI/CD pipelines (GitHub Actions, Jenkins)
+- 🔹 Hybrid database architecture (MongoDB + Firebase)
+
+---
+
+## 🌍 Featured Projects
+
+### 🚀 AI Autonomous Job Agent
+Hyper-automated recruitment pipeline:
+- Real-time job scraping (Apify)
+- Gemini 1.5 Pro resume parsing
+- LLM-based JD semantic analysis
+- Automated resume regeneration
+- Bi-directional ETL with Google Sheets
+
+---
+
+### 🌾 KrishiMitram – AI Agriculture Platform (Live)
+- Next.js + Supabase ecosystem
+- CNN model deployment on AWS
+- RAG-based multilingual advisory chatbot
+- Unified buyer–farmer digital workflow
+
+---
+
+### 🌎 WorldWise – AI Trip Planner (Live)
+- Hybrid DB architecture (MongoDB + Firebase)
+- Gemini-powered itinerary generation
+- Interactive map visualizations (Leaflet.js)
+- 40% reduction in user planning time
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+`Java` `C++` `Python` `JavaScript` `TypeScript` `SQL` `Bash`
+
+### Frontend
+`Next.js` `React` `React Native` `TailwindCSS`  
+`Framer Motion` `GSAP` `Three.js` `WebGL`
+
+### Backend & Cloud
+`Node.js` `Express` `AWS (EC2, S3)`  
+`Docker` `Kubernetes` `Redis` `Kafka`  
+`Supabase` `Firebase` `MongoDB` `PostgreSQL`
+
+### AI / ML
+`RAG Pipelines` `LLMs` `LangChain` `LangGraph`  
+`CNN (Computer Vision)` `Gemini API`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Leadership & Recognition
+
+- 🏅 Technical Lead – GDG MMMUT  
+- 🏅 Reliance Undergraduate Scholar (Top 1% Nationwide)  
+- 🏅 Google Cloud Generative AI Certification  
+- 🏅 Hackathon Organizer (150+ participants)  
+- 🥈 2nd Place – University Blind Coding Competition  
+
+---
+
+## 🎯 Currently
+
+- Building AI automation systems
+- Deep diving into distributed systems design
+- Strengthening DSA & system-level thinking in Java
+- Exploring 3D immersive web experiences
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: [Your Portfolio Link]
+- 💼 LinkedIn: [Your LinkedIn Link]
+- 📧 Email: [Your Email]
+- 🧠 LeetCode: [Your LeetCode Link]
+
+---
+
+<p align="center">
+⭐ If you find something interesting in my repositories, feel free to star it!
+</p>
