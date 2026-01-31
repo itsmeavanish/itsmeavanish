@@ -35,8 +35,8 @@ I build scalable backend systems, autonomous AI workflows, and cloud-native appl
 
 | 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull Requests |
 |------------|---------|----------|----------|----------------|
-| AI Autonomous Job Agent | ![Stars](https://img.shields.io/github/stars/itsmeavanish/job-agent) | ![Forks](https://img.shields.io/github/forks/itsmeavanish/job-agent) | ![Issues](https://img.shields.io/github/issues/itsmeavanish/job-agent) | ![PRs](https://img.shields.io/github/issues-pr/itsmeavanish/job-agent) |
-| KrishiMitram – AI Agri Platform | ![Stars](https://img.shields.io/github/stars/itsmeavanish/krishimitram) | ![Forks](https://img.shields.io/github/forks/itsmeavanish/krishimitram) | ![Issues](https://img.shields.io/github/issues/itsmeavanish/krishimitram) | ![PRs](https://img.shields.io/github/issues-pr/itsmeavanish/krishimitram) |
+| AI Autonomous Job Agent | ![Stars](https://img.shields.io/github/stars/itsmeavanish/Linked-Automation-AI-Agent) | ![Forks](https://img.shields.io/github/forks/itsmeavanish/Linked-Automation-AI-Agent) | ![Issues](https://img.shields.io/github/issues/itsmeavanish/Linked-Automation-AI-Agent) | ![PRs](https://img.shields.io/github/issues-pr/itsmeavanish/Linked-Automation-AI-Agent) |
+| KrishiMitram – AI Agri Platform | ![Stars](https://img.shields.io/github/stars/itsmeavanish/KrishiMitram) | ![Forks](https://img.shields.io/github/forks/itsmeavanish/KrishiMitram) | ![Issues](https://img.shields.io/github/issues/itsmeavanish/KrishiMitram) | ![PRs](https://img.shields.io/github/issues-pr/itsmeavanish/KrishiMitram) |
 | WorldWise – AI Trip Planner | ![Stars](https://img.shields.io/github/stars/itsmeavanish/worldwise) | ![Forks](https://img.shields.io/github/forks/itsmeavanish/worldwise) | ![Issues](https://img.shields.io/github/issues/itsmeavanish/worldwise) | ![PRs](https://img.shields.io/github/issues-pr/itsmeavanish/worldwise) |
 
 ---
@@ -81,4 +81,4 @@ Currently building scalable AI systems and cloud-native architectures.
 This README file can be generated dynamically every 3 hours using **GitHub Actions**.  
 Last refresh: <!--LAST_UPDATED-->
 
-⭐️ From [YOUR_USERNAME](https://github.com/itsmeavanish)
+⭐️ From(https://github.com/itsmeavanish)
