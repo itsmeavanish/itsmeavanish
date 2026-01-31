@@ -43,10 +43,15 @@ I build scalable backend systems, autonomous AI workflows, and cloud-native appl
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmeavanish&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeavanish&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmeavanish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=itsmeavanish&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeavanish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
 
 ---
 
@@ -72,8 +77,8 @@ Currently building scalable AI systems and cloud-native architectures.
 ## 📫 Where to find me
 
 [![Github](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/itsmeavanish)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin)]([YOUR_LINKEDIN](https://www.linkedin.com/in/avanish633/))
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=FirefoxBrowser)]([YOUR_PORTFOLIO](https://avanishportfolio.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin)](https://www.linkedin.com/in/avanish633/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=FirefoxBrowser)](https://avanishportfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:avanishupadhyay633@gmail.com)
 
 ---
@@ -81,4 +86,4 @@ Currently building scalable AI systems and cloud-native architectures.
 This README file can be generated dynamically every 3 hours using **GitHub Actions**.  
 Last refresh: <!--LAST_UPDATED-->
 
-⭐️ From(https://github.com/itsmeavanish)
+⭐️ From [itsmeavanish](https://github.com/itsmeavanish)
