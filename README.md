@@ -1,137 +1,84 @@
-<h1 align="center">Hi, I'm Avanish Upadhyay 👋</h1>
-<h3 align="center">Full Stack & AI Systems Engineer</h3>
+### Hey! Nice to see you 👋  
+Welcome to my page!  
 
-<p align="center">
-Building Autonomous AI Systems • Distributed Backends • Cloud-Native Platforms
+I'm **Avanish Upadhyay**, Full Stack & AI Systems Engineer from 🇮🇳 Uttar Pradesh, India.  
+I build scalable backend systems, autonomous AI workflows, and cloud-native applications.
+
+---
+
+## 🚀 Things I code with
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-000?&logo=Java" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=Python" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
+  <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=React" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000?&logo=Next.js" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000?&logo=Express" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-000?&logo=Supabase" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-000?&logo=Redis" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?&logo=Docker" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-000?&logo=AmazonAWS" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-000?&logo=GitHubActions" />
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-000?&logo=Chainlink" />
+  <img alt="Gemini" src="https://img.shields.io/badge/-Gemini%20API-000?&logo=Google" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Open source & featured projects
 
-I design and build **scalable, intelligent, and production-grade systems** at the intersection of AI and full-stack engineering.
-
-My focus lies in:
-- Architecting distributed backend systems
-- Building AI-powered automation agents
-- Deploying cloud-native applications
-- Designing high-performance frontend experiences
-
-Currently exploring advanced **Generative AI systems, RAG pipelines, distributed event architectures, and DevOps automation workflows**.
+| 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull Requests |
+|------------|---------|----------|----------|----------------|
+| AI Autonomous Job Agent | ![Stars](https://img.shields.io/github/stars/itsmeavanish/job-agent) | ![Forks](https://img.shields.io/github/forks/itsmeavanish/job-agent) | ![Issues](https://img.shields.io/github/issues/itsmeavanish/job-agent) | ![PRs](https://img.shields.io/github/issues-pr/itsmeavanish/job-agent) |
+| KrishiMitram – AI Agri Platform | ![Stars](https://img.shields.io/github/stars/itsmeavanish/krishimitram) | ![Forks](https://img.shields.io/github/forks/itsmeavanish/krishimitram) | ![Issues](https://img.shields.io/github/issues/itsmeavanish/krishimitram) | ![PRs](https://img.shields.io/github/issues-pr/itsmeavanish/krishimitram) |
+| WorldWise – AI Trip Planner | ![Stars](https://img.shields.io/github/stars/itsmeavanish/worldwise) | ![Forks](https://img.shields.io/github/forks/itsmeavanish/worldwise) | ![Issues](https://img.shields.io/github/issues/itsmeavanish/worldwise) | ![PRs](https://img.shields.io/github/issues-pr/itsmeavanish/worldwise) |
 
 ---
 
-## 🧠 AI Engineering
+## 📊 GitHub Stats
 
-- 🔹 Agentic AI workflows (n8n + MCP + LLM orchestration)
-- 🔹 RAG pipelines using LangChain / LangGraph
-- 🔹 Semantic resume regeneration engine (100% ATS keyword match system)
-- 🔹 CNN-based real-time crop disease detection (AWS EC2 deployment)
-- 🔹 Hybrid structured + vector data architectures
-- 🔹 AI-driven automation agents for zero-touch workflows
-
----
-
-## ⚙️ Backend & Systems Engineering
-
-- 🔹 Event-driven architecture (Redis + Kafka)
-- 🔹 Low-latency APIs (achieved 30% response reduction)
-- 🔹 Prisma ORM + Supabase data layer standardization
-- 🔹 Dockerized cloud deployments (AWS EC2, S3)
-- 🔹 CI/CD pipelines (GitHub Actions, Jenkins)
-- 🔹 Hybrid database architecture (MongoDB + Firebase)
-
----
-
-## 🌍 Featured Projects
-
-### 🚀 AI Autonomous Job Agent
-Hyper-automated recruitment pipeline:
-- Real-time job scraping (Apify)
-- Gemini 1.5 Pro resume parsing
-- LLM-based JD semantic analysis
-- Automated resume regeneration
-- Bi-directional ETL with Google Sheets
-
----
-
-### 🌾 KrishiMitram – AI Agriculture Platform (Live)
-- Next.js + Supabase ecosystem
-- CNN model deployment on AWS
-- RAG-based multilingual advisory chatbot
-- Unified buyer–farmer digital workflow
-
----
-
-### 🌎 WorldWise – AI Trip Planner (Live)
-- Hybrid DB architecture (MongoDB + Firebase)
-- Gemini-powered itinerary generation
-- Interactive map visualizations (Leaflet.js)
-- 40% reduction in user planning time
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-`Java` `C++` `Python` `JavaScript` `TypeScript` `SQL` `Bash`
-
-### Frontend
-`Next.js` `React` `React Native` `TailwindCSS`  
-`Framer Motion` `GSAP` `Three.js` `WebGL`
-
-### Backend & Cloud
-`Node.js` `Express` `AWS (EC2, S3)`  
-`Docker` `Kubernetes` `Redis` `Kafka`  
-`Supabase` `Firebase` `MongoDB` `PostgreSQL`
-
-### AI / ML
-`RAG Pipelines` `LLMs` `LangChain` `LangGraph`  
-`CNN (Computer Vision)` `Gemini API`
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmeavanish&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeavanish&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Leadership & Recognition
+## ✍️ My latest posts
 
-- 🏅 Technical Lead – GDG MMMUT  
-- 🏅 Reliance Undergraduate Scholar (Top 1% Nationwide)  
-- 🏅 Google Cloud Generative AI Certification  
-- 🏅 Hackathon Organizer (150+ participants)  
-- 🥈 2nd Place – University Blind Coding Competition  
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Building Autonomous AI Agents with n8n + LLMs  
+- ⚙️ Designing Low-Latency Distributed Backends  
+- 🌾 Deploying CNN Models on AWS EC2  
+- 🧠 Architecting RAG Pipelines with LangChain  
+<!-- BLOG-POST-LIST:END -->
 
----
-
-## 🎯 Currently
-
-- Building AI automation systems
-- Deep diving into distributed systems design
-- Strengthening DSA & system-level thinking in Java
-- Exploring 3D immersive web experiences
+(You can automate this with GitHub Actions + RSS feed.)
 
 ---
 
-## 📫 Connect With Me
+## 📍 Based in India 🇮🇳
 
-- 🌐 Portfolio: [Your Portfolio Link]
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 📧 Email: [Your Email]
-- 🧠 LeetCode: [Your LeetCode Link]
+Currently building scalable AI systems and cloud-native architectures.
 
 ---
 
-<p align="center">
-⭐ If you find something interesting in my repositories, feel free to star it!
-</p>
+## 📫 Where to find me
+
+[![Github](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/itsmeavanish)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin)]([YOUR_LINKEDIN](https://www.linkedin.com/in/avanish633/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=FirefoxBrowser)]([YOUR_PORTFOLIO](https://avanishportfolio.vercel.app/))
+[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:avanishupadhyay633@gmail.com)
+
+---
+
+This README file can be generated dynamically every 3 hours using **GitHub Actions**.  
+Last refresh: <!--LAST_UPDATED-->
+
+⭐️ From [YOUR_USERNAME](https://github.com/itsmeavanish)
